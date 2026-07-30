@@ -1,2 +1,2 @@
 # ComfyUI-ScreenRemoval
-An atempt to create an automatic screen removal tool for photos
+An attempt to create an automatic patio or window screen removal tool for photos.
